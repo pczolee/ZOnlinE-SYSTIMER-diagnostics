@@ -1,0 +1,75 @@
+{
+  "source_repository": "pczolee/Renault-Zoe-ZOnliNe",
+  "source_repository_visibility": "private",
+  "source_commit": "124b85c0cdfdc478a226368d3fc6f642ed6b7bfe",
+  "firmware": "v2.6.716-test1 (20261029)",
+  "copy_policy": "Listed source files copied byte-for-byte, with original paths and notices.",
+  "files": [
+    {
+      "path": "zonline_systick_read.h",
+      "original_git_blob_sha": "b0b8dfa443621bffa89b54ad995e72a90a3361d9",
+      "sha256": "b2bb23a2fd96485eb196f1d2284c8935bab4615f2e8fbc1589aa7935c94eaf58",
+      "bytes": 1009
+    },
+    {
+      "path": "zonline_systick_guard_policy.h",
+      "original_git_blob_sha": "3570c01ab0d6ad396f13d1f9b9f84bce24027a9f",
+      "sha256": "f0ce112d33512f9d4dab2304a2088adb775cc2c0211334b696c986081c211794",
+      "bytes": 867
+    },
+    {
+      "path": "zonline_systick_recovery_policy.h",
+      "original_git_blob_sha": "0168692d68b1f63576c46896f4839bf5e080dee9",
+      "sha256": "219e1c2b6eb9ede2be394b816b04246ea688d7dad44df4fbae95abb1eb5e3d30",
+      "bytes": 1933
+    },
+    {
+      "path": "zonline_systick_port.c",
+      "original_git_blob_sha": "a7357c0f290ced841cc0ffa3c6ebc911a274c327",
+      "sha256": "0efb58c52b654d902de16ca538d05611c346aaa332bec269d4824e66777a6557",
+      "bytes": 16251
+    },
+    {
+      "path": "zonline_systimer_hal_port.c",
+      "original_git_blob_sha": "8a3c44ba07ab84dd9d505b80e226a9ba619cbfc5",
+      "sha256": "138c4ed8e5b09276ada6bda59e81d9a8e0e7b595e7e004e36e8471c7bc5de9a3",
+      "bytes": 8050
+    },
+    {
+      "path": "zonline_fault_capture.h",
+      "original_git_blob_sha": "f2e4db349aaa1fc06f764de6682ebe7b6863be44",
+      "sha256": "1d9b995952f74d4e386e32127a2dd13891b7e614732c674af6218360a8062e08",
+      "bytes": 4116
+    },
+    {
+      "path": "zonline_fault_capture.c",
+      "original_git_blob_sha": "c6f9077ca724948c1030637871d2fdd2c3bb810a",
+      "sha256": "b9aebd6a3fa7dd388f9668691808c57f3dd8b038a1f93968e3f91da15331eb7d",
+      "bytes": 15922
+    },
+    {
+      "path": "zonline_systimer_trace_policy.h",
+      "original_git_blob_sha": "76cdd1d4c409a926ff9ab1a97261e644fa7b2102",
+      "sha256": "1c7a91b4440c0cb3f80507fffe00aabe8cdb9fcf5d2b9d9d05bfdf0c9e4398ef",
+      "bytes": 1176
+    },
+    {
+      "path": "zonline_diagnostic_sdk_guard.h",
+      "original_git_blob_sha": "5cf78c74ad031b5166860229002045adc1f4617f",
+      "sha256": "25dda80f9d932fdd53e0b162a91ebe8c5674fc929f4a1a3e09bd9a183e7edb23",
+      "bytes": 718
+    },
+    {
+      "path": "scripts/decode_first_fault.py",
+      "original_git_blob_sha": "914743a84e19e0499aec0587595fe0f824d2f417",
+      "sha256": "9995cc7cb6b79bb09f3f88e1c1ccc1744e9d154dcd67c81b7b94b20afa6d2634",
+      "bytes": 3993
+    },
+    {
+      "path": "scripts/decode_systimer_probe.py",
+      "original_git_blob_sha": "eee618ced2fd295982e8221752e49670cad9ad81",
+      "sha256": "525293c341ec54cb5d079486d90a1b2d501dedb9c57202b08ee70b87a4ffc52c",
+      "bytes": 7296
+    }
+  ]
+}
